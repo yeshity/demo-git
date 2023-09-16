@@ -1,3 +1,4 @@
+package com.qa.pages;
 class Aboutus{
   public void about()
   {
